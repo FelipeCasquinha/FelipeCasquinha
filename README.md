@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, me chamo Felipe e sou iniciante na carreira de programar.
 
 <!--
 **FelipeCasquinha/FelipeCasquinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
